@@ -29,7 +29,7 @@ body {
     background-position: center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
-    background-size: cover;
+    background-size: contain;
     -o-background-size: cover;
 }
 
